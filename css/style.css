@@ -1,0 +1,11 @@
+h1 {
+  color: orange;
+  text-shadow: 2px 2px 2px rgb(62, 3, 62);
+}
+
+ul {
+  margin: 20px;
+  list-style-type: circle;
+  list-style-position: inside;
+}
+
