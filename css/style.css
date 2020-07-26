@@ -3,7 +3,7 @@ h1 {
   text-shadow: 2px 2px 2px rgb(62, 3, 62);
 }
 
-ul {
+.fun {
   margin: 20px;
   list-style-type: circle;
   list-style-position: inside;
