@@ -73,7 +73,7 @@ while (attempts < 4) {
   }
 }
 
-console.log('User answer for favorite number' + favNumber);
+// console.log('User answer for favorite number' + favNumber);
 
 var favFood = prompt('Guess one of the top four styles of foods that I enjoy eating.').toLowerCase();
 var foodStyles = ['mexican', 'italian', 'southern', 'japanese'];
@@ -91,10 +91,10 @@ if (i === 5) {
   favFood = alert('My top four favorite styles of food are mexican, italian, southern, and japanese food!');
 }
 
-console.log('User answer for favorite food ' + favFood);
+// console.log('User answer for favorite food ' + favFood);
 
 alert('Congratulations, you got ' + score + ' out of 7 answers correct!');
 
-console.log('User score ' + score + ' out of 7 correct.');
+// console.log('User score ' + score + ' out of 7 correct.');
 
 // alert (userName + ' as you can see, Nicholas is a very interesting guy. Please continue to the site to find out more about him.');
