@@ -1,11 +1,102 @@
-h1 {
-  color: orange;
-  text-shadow: 2px 2px 2px rgb(62, 3, 62);
+#name {
+  color: rgb(211, 0, 81);
+  text-shadow: 10px 10px 10px rgba(0, 108, 100, 0.639);
+  font-size: 100px;
+  margin: 30px;
+  padding: 30px;
+}
+
+body {
+  background-color: lightgreen;
+}
+
+#sur {
+  max-width: 30%;
+  max-height: auto;
+  float:right;
+  margin: 50px;
+
+}
+
+#life {
+  font-size: 30px;
+  text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.687);
+}
+
+#openParagraph {
+  font-size: 25px;
+}
+
+#sports {
+  font-size: 25px;
+}
+
+#survival {
+  font-size: 25px;
+}
+
+#careerParagraph {
+  font-size: 25px;
+}
+
+#experience {
+  font-size: 40px;
+  float: right;
+  padding: 30px;
+}
+
+#facts {
+  font-size: 40px;
+  float: right;
+  padding: 30px;
+}
+
+div p {
+  font-size: 60px;
+  align-items: right;
+  /* margin: 50px; */
+}
+
+.facts {
+  list-style-type: circle;
+  list-style-position: inside;
+}
+
+.facts1 {
+  list-style-type: circle;
+  list-style-position: inside;
+}
+
+#education {
+  font-size: 60px;
+}
+
+.educators {
+  font-size: 40px;
+  list-style-type: circle;
+  list-style-position: inside;
+}
+
+#starWars {
+  max-width: 30%;
+  max-height: auto;
+  float:right;
+  margin: 50px;
+}
+
+#hobbies {
+  font-size: 60px;
 }
 
 .fun {
   margin: 20px;
   list-style-type: circle;
   list-style-position: inside;
+  font-size: 40px;
+
+}
+
+.parks {
+  font-size: 40px;
 }
 
