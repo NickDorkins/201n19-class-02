@@ -7,14 +7,15 @@
 }
 
 body {
-  background-color: lightgreen;
+  background-color: rgba(6, 131, 27, 0.693);
 }
 
 #sur {
   max-width: 30%;
   max-height: auto;
   float:right;
-  margin: 50px;
+  padding: 50px;
+  background-color: yellow;
 
 }
 
@@ -77,6 +78,14 @@ div p {
   list-style-position: inside;
 }
 
+#puppies{
+  max-width: 30%;
+  max-height: auto;
+  float:left;
+  padding: 50px;
+  background-color: rgb(155, 0, 41);
+}
+
 #starWars {
   max-width: 30%;
   max-height: auto;
@@ -99,4 +108,3 @@ div p {
 .parks {
   font-size: 40px;
 }
-
